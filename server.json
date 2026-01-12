@@ -1,6 +1,6 @@
 {
 	"active": true,
-	"address": "ws://localhost:3000",
+	"address": "wss://beaver-browsers-sheets-peace.trycloudflare.com",
 	"region": "lasur",
 	"note": "tunel actual"
 }
