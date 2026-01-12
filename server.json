@@ -1,6 +1,6 @@
 {
 	"active": true,
-	"address": "wss://xxxxx",
+	"address": "ws://localhost:3000",
 	"region": "lasur",
 	"note": "tunel actual"
 }
